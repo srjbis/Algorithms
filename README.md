@@ -7,3 +7,4 @@
 3. Bobble sort
 4. Optimized bobble sort
 5. Selection sort
+6. Insertion sort

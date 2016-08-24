@@ -1,6 +1,6 @@
 """
 Selection sort
-Complexity:
+Complexity: O(n2)
 """
 
 
